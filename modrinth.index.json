@@ -156,21 +156,6 @@
       "fileSize": 20808
     },
     {
-      "path": "mods/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar",
-      "hashes": {
-        "sha512": "c3373812cb65b98cf524e387d3f032ebcbf3bd4e874d42f46b700be9b895ca15c8568cd0c2e0244a277104f42a3fe0b0446305b29e9abe89c0146c96b1b97f82",
-        "sha1": "e8a97b52e89bf96f67af547cda3bc6b15f5ceb73"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/uzLZ00HG/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar"
-      ],
-      "fileSize": 25477119
-    },
-    {
       "path": "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
       "hashes": {
         "sha512": "b3deafd146dc3ea6e879fbc92f00de5797319a1aa620fb3b39be64c19271dab2efa07f824cda7139f8c22f2524ea413949357f5469bb6de584d1386de069c6b7",
