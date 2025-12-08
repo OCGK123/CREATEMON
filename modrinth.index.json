@@ -1881,21 +1881,6 @@
       "fileSize": 19001557
     },
     {
-      "path": "mods/tpa-1.7.5.jar",
-      "hashes": {
-        "sha512": "a0ed2421dd180b4e076407c513593a19bc66d62010752a4465d68fff689bd9be235f61f9f657fdd66c8b3ccb21c1bc2a9dc8e038c43d24e1b6184f5867c1eee9",
-        "sha1": "bcff669d37790875890398f6b70ebf440dc34351"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/pbGzLSUN/versions/K7BLhSZ1/tpa-1.7.5.jar"
-      ],
-      "fileSize": 35766
-    },
-    {
       "path": "mods/ferritecore-7.0.2-neoforge.jar",
       "hashes": {
         "sha1": "7279fc52c32a033acc2864a9bcb018b2e04bbd03",
