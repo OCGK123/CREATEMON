@@ -411,21 +411,6 @@
       "fileSize": 834451
     },
     {
-      "path": "mods/customcursor-neoforge-3.0.3+1.21.1.jar",
-      "hashes": {
-        "sha512": "cfc4a73a6f1a7ff40d83272adda3f815ca4b6ffa27a78e9558a09abc32e859918829fd82b10fd3298701256e080a650845b45f4405bfa1877df3d8162acb6971",
-        "sha1": "77b47c4128e9d212b669dffe6ad8ccc304c799c3"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Yx7vS7Wl/versions/1ncMD1Qy/customcursor-neoforge-3.0.3%2B1.21.1.jar"
-      ],
-      "fileSize": 672368
-    },
-    {
       "path": "mods/AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
       "hashes": {
         "sha512": "534b4ded2849793359afc447a910065f294c69a5a4042ed4b2cb3ab542f2c87ffd667a23565d36677ad443ce1cb5373f2a1ff346eda0869103bb238797555dfd",
