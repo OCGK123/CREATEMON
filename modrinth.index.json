@@ -2616,21 +2616,6 @@
       "fileSize": 1203863
     },
     {
-      "path": "mods/DnDesires-1.21.1-2.2d-BETA.jar",
-      "hashes": {
-        "sha1": "fed072610e7d758c379cdaa2161ac8e5f28ce0b9",
-        "sha512": "d0ebfe8905b6d9fca4cb70b3e52c57ef8d363bd3f71dfd36967456a70b73b4d2b970be18140ce1f345eddb209bb94ac9da1ed1c6b14dd8347c4c465952ed375f"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/JmybsfWs/versions/P4yXqsnw/DnDesires-1.21.1-2.2d-BETA.jar"
-      ],
-      "fileSize": 1184499
-    },
-    {
       "path": "mods/discord_chat_mod-neoforge-1.21.1-2.6.1.jar",
       "hashes": {
         "sha1": "53e9a5092797a31359f3c7dd09f63decdad8f0c4",
