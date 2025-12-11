@@ -1146,21 +1146,6 @@
       "fileSize": 367106
     },
     {
-      "path": "mods/lithium-neoforge-0.15.1+mc1.21.1.jar",
-      "hashes": {
-        "sha1": "38295e15a600899697a5dbd29b1e9c15060e5760",
-        "sha512": "1975e74294798fe173d944d3e0b174b39dc8b7fa177340acb71c8a85772932b82c9406099c854d45fa4f71b80dbbb73602fd7cc36d1374dfc8402e4a30ccfe3b"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/G5SDYehn/lithium-neoforge-0.15.1%2Bmc1.21.1.jar"
-      ],
-      "fileSize": 749987
-    },
-    {
       "path": "mods/sophisticatedcore-1.21.1-1.3.90.1254.jar",
       "hashes": {
         "sha1": "cc1f7db1ddf678af1f672b60c52cdfd8fa495768",
