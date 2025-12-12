@@ -2301,21 +2301,6 @@
       "fileSize": 6913049
     },
     {
-      "path": "mods/no-entity-lag-v1.2.jar",
-      "hashes": {
-        "sha1": "bdd36d896f409dae7272e6de5a1f61ca6bc4371e",
-        "sha512": "8bd45272c4b94a2c56674ee24e33ad78f5780d1f08462170fbef83caf57ba20a3017addf54471004b0a6d6c5d7a24b4b798007208ccdc5e88fd879c62d033985"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/HydPXwHs/versions/JNjE4wOl/no-entity-lag-v1.2.jar"
-      ],
-      "fileSize": 46125
-    },
-    {
       "path": "mods/freezer-1.0.0.jar",
       "hashes": {
         "sha512": "275daeee98e5f80303fd607560e2aaca6c8a7ff50412b23d1d3c5acee4026ae1d0ad87ad30c83b8113d7e026c4b77cb1ce6d7dd94f5a6f4dee6e93c9146502d9",
