@@ -3456,21 +3456,6 @@
       "fileSize": 195730
     },
     {
-      "path": "mods/datapack-function-library-3.0.0.jar",
-      "hashes": {
-        "sha1": "3d7fd405a49e425fb5c3e5697c72cee3197c31a0",
-        "sha512": "97b6eddc46a5ee4806fe50a74d05f077d9e6f02d6d390a51c3d6d47663b18defb32bcbe0629be0f6780d900d90db8cd106fd708ae4f98a556d48d9efde2451e1"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/xfcXTP3W/versions/xWIsZGs1/datapack-function-library-3.0.0.jar"
-      ],
-      "fileSize": 480908
-    },
-    {
       "path": "mods/create_ironworks-4.0.0-neoforge-1.21.1.jar",
       "hashes": {
         "sha512": "2c0f3373c65d9ef29c4ae79166580c7aad5a3d97035af560a4aa66684bf148e320dcb4b81b868271a4e2903a831934fb1694192d38510a6671e8b465575a4c47",
