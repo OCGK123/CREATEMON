@@ -6,6 +6,36 @@
   "summary": "",
   "files": [
     {
+      "path": "mods/doespotatotick-1.21.1-5.5.3.jar",
+      "hashes": {
+        "sha512": "cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04",
+        "sha1": "6fe849c4a488107572c9af9d7d8329d93376f343"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://github.com/OCGK123/CREATEMON/raw/refs/heads/main/doespotatotick-1.21.1-5.5.3.jar"
+      ],
+      "fileSize": 81843
+    },
+    {
+      "path": "mods/duplicationless-1.21.1-1.0.10.jar",
+      "hashes": {
+        "sha512": "cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04",
+        "sha1": "6fe849c4a488107572c9af9d7d8329d93376f343"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://github.com/OCGK123/CREATEMON/raw/refs/heads/main/duplicationless-1.21.1-1.0.10.jar"
+      ],
+      "fileSize": 81843
+    },
+    {
       "path": "mods/cwb-neoforge-3.0.0+mc1.21.jar",
       "hashes": {
         "sha512": "cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04",
