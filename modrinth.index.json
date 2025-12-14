@@ -1731,21 +1731,6 @@
       "fileSize": 15278
     },
     {
-      "path": "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
-      "hashes": {
-        "sha1": "9edfc7861277ff661141304dc8216f83eacdd9af",
-        "sha512": "292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
-      ],
-      "fileSize": 306668
-    },
-    {
       "path": "mods/bookshelf-neoforge-1.21.1-21.1.78.jar",
       "hashes": {
         "sha1": "f3e521df9a8fb056f497abb39bb266fadf20c9c2",
