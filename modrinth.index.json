@@ -6,36 +6,6 @@
   "summary": "",
   "files": [
     {
-      "path": "mods/doespotatotick-1.21.1-5.5.3.jar",
-      "hashes": {
-        "sha512": "2a443c51af5f8e610fbecca00dd800bc979c6cc87eb5811f729e9050d79d3afe8bb7a0acf0d6e13ebe124987e19bc5a544c3789ea375e34e4d5b9af5162bac3a",
-        "sha1": "608512ae3f04477e3cf061643cc3e04e9eaece1f"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://github.com/OCGK123/CREATEMON/raw/refs/heads/main/doespotatotick-1.21.1-5.5.3.jar"
-      ],
-      "fileSize": 47469
-    },
-    {
-      "path": "mods/duplicationless-1.21.1-1.0.10.jar",
-      "hashes": {
-        "sha512": "2f2c297d12a86ef4caf379aa88d48e54ab10bb60351818adf79e2060f852348ba9794431d186a3350f3442b0d75b159bcb5e3db7890f5150577ded19b6329e50",
-        "sha1": "cca5e8bb8c46bc4bcaee9b26b1b49d0866723bba"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://github.com/OCGK123/CREATEMON/raw/refs/heads/main/duplicationless-1.21.1-1.0.10.jar"
-      ],
-      "fileSize": 55177
-    },
-    {
       "path": "mods/immersive_melodies-neoforge-0.6.2+1.21.1.jar",
       "hashes": {
         "sha1": "b854ee1c181eb1da9cd9999aa656b3bbcee29c1e",
