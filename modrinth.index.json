@@ -3891,21 +3891,6 @@
       "fileSize": 1148286
     },
     {
-      "path": "mods/embeddium-1.0.15+mc1.21.1.jar",
-      "hashes": {
-        "sha512": "d073cf52dcf2aeec3ac9f746d4571c7b4b1ad746fa11d4bcc5a21a264ae3119ac6d341d08cc9a70042cf0ddffc3b3ef3329ed30217035d4551c9d6788b6dc1e6",
-        "sha1": "56063839172a000d079272794bad366f2ad4cbbd"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/J7b96IEd/embeddium-1.0.15%2Bmc1.21.1.jar"
-      ],
-      "fileSize": 1048745
-    },
-    {
       "path": "mods/worldedit-mod-7.3.8.jar",
       "hashes": {
         "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
