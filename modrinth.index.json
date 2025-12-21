@@ -3141,21 +3141,6 @@
       "fileSize": 204161
     },
     {
-      "path": "mods/createfood-neoforge-1.21.1-2.0.0a.jar",
-      "hashes": {
-        "sha1": "ce3c07d3b2ffbd1582664357f8908cae215e5123",
-        "sha512": "be3555e8f9c1752772691f35832ddd58425fd86006c4d1e9eed2f3cc0d55ab459021483e8b4c4c703c0a093450f1551d2bb8d411eed3b44c6a29d27cef4c5df1"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/4HnO3el1/versions/ggrcrZ0n/createfood-neoforge-1.21.1-2.0.0a.jar"
-      ],
-      "fileSize": 7994554
-    },
-    {
       "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
       "hashes": {
         "sha1": "e277fba0c94fea3c3f58d23bfa53d2eb457555f6",
