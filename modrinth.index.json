@@ -4444,7 +4444,7 @@
         "https://cdn.modrinth.com/data/EsAfCjCV/versions/kztxpjAA/appleskin-neoforge-mc1.21-3.0.7.jar"
       ],
       "fileSize": 74100
-    },
+    }
   ],
   "dependencies": {
     "neoforge": "21.1.216",
