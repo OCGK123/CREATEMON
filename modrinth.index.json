@@ -3021,21 +3021,6 @@
       "fileSize": 60347
     },
     {
-      "path": "mods/elytraoptimizationsneoforgeport-1.0.0.jar",
-      "hashes": {
-        "sha512": "07a9aec74b7648f4c75e40fe867db06758e4c3315623ae77212464b037c795a7dfb1d7148719c6b4d973aa8b7c7ed3b7d4e77babb91732f8f103c8976bdb8378",
-        "sha1": "fdc5c52016da8c0ad66411acaff92f752690f606"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/FKE8UrH5/versions/8YzW14CS/elytraoptimizationsneoforgeport-1.0.0.jar"
-      ],
-      "fileSize": 21897
-    },
-    {
       "path": "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
       "hashes": {
         "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442",
