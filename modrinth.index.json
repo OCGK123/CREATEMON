@@ -4221,21 +4221,6 @@
       "fileSize": 182098
     },
     {
-      "path": "mods/recipeitemsync-1.7.jar",
-      "hashes": {
-        "sha1": "781ae1f64c9158bf1efcca6c0f795155be327360",
-        "sha512": "38ca933876e6bea7663f40805a5424fc633220a906b3c4ec0f6ca352fa6ddb1b058d2e36af751e848c0536c1ea200238ca043077952bc3025e67e1d8db8bfcc5"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/jQbAVNQr/versions/YG7Jy8GB/recipeitemsync-1.7.jar"
-      ],
-      "fileSize": 87078
-    },
-    {
       "path": "mods/cobblemon_industries-neoforge-1.3.2.jar",
       "hashes": {
         "sha512": "e57e10e95cb0761c16db5472e6437a68e8fc8a32aab3ec148b62660c3fef9965d288266142b19d4be7c209bf4da6a012ec9f10fb67779c7c85bae2f43adc2c6a",
