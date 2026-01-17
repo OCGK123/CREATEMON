@@ -4521,21 +4521,6 @@
       "fileSize": 1204475
     },
     {
-      "path": "mods/languagereload-neoforge-1.21.1-1.0.2.jar",
-      "hashes": {
-        "sha512": "749f5e5e465cb0974401632c7d94b86f3512f66afa4fb8bc7278f67a16a01fc9209e1d7e2ea0e9db3390505b4bfcc1cc00ca02b5eaae42b1fddd2f33aaae4a52",
-        "sha1": "4a9c4c762facbd9d4691763e0a6315c5b7ab3835"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/4zpN0syd/versions/qSdV3sEV/languagereload-neoforge-1.21.1-1.0.2.jar"
-      ],
-      "fileSize": 68022
-    },
-    {
       "path": "shaderpacks/MakeUp-UltraFast-9.4a.zip",
       "hashes": {
         "sha1": "f08cefca00edd5fc99f4ac7fc121a89e2cbd0c50",
