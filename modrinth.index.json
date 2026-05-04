@@ -2151,21 +2151,6 @@
       "fileSize": 235207
     },
     {
-      "path": "mods/trainutilities-neoforge-3.0.3.jar",
-      "hashes": {
-        "sha512": "32bd19e7790c1611b7cf7914c25979518948bf04d7443f96cc6538c6c5753237aafeb9faab5a0b30fd31bbfe9c2a8707eff293e981bb6b19f7892835666eaaa6",
-        "sha1": "53d0610eb9e0d9d9ba66d96c36802d027adabd26"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/kVIxLqso/versions/CPAbSUUg/trainutilities-neoforge-3.0.3.jar"
-      ],
-      "fileSize": 4414638
-    },
-    {
       "path": "mods/cobblemon-darkrai-1.1.1.jar",
       "hashes": {
         "sha1": "869b617ec86813cf0228dccdb950c3de74bdbd0f",
@@ -2479,21 +2464,6 @@
         "https://cdn.modrinth.com/data/gk3B4zrk/versions/Qf76J2L2/SmoothBoot-NeoForge%2B1.21-1.0.0.jar"
       ],
       "fileSize": 33070
-    },
-    {
-      "path": "mods/create_train_parts-0.3.6-1.21.1-6.0.9-216.jar",
-      "hashes": {
-        "sha1": "9375e43d82fed97ece089dc460c7c46bba351af3",
-        "sha512": "06dd3c21a2f83fa30455d55e91c18ad0171997968b3169548a608c9a4514c5ad504a9a185f7a79c3559c1ac315f7e0093a9088f6107b592f9fe0c3ec6cac0820"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/h0bu4oDk/versions/RCISS5uM/create_train_parts-0.3.6-1.21.1-6.0.9-216.jar"
-      ],
-      "fileSize": 3531012
     },
     {
       "path": "mods/architectury-13.0.8-neoforge.jar",
