@@ -156,21 +156,6 @@
       "fileSize": 84811434
     },
     {
-      "path": "mods/more_engines-neoforge-3.0.2.jar",
-      "hashes": {
-        "sha512": "cb591360be0f70ab7b18e7889c1035770f201e10985c92b932739e0b49c9a5dd329302bf5e0f8279920ee6f86f3d152a8decae260beebf0a2054317ed421f8e8",
-        "sha1": "e4e4e27215428925aa0e8829b307c3fc366ffe2f"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/kNsl999k/versions/Mv5berrR/more_engines-neoforge-3.0.2.jar"
-      ],
-      "fileSize": 993276
-    },
-    {
       "path": "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
       "hashes": {
         "sha512": "544f83caec2e894e7422571f154bb5a470e9156d5b5b70e6352c754f1bac47ac2c055893064faae2d05ca3a8bef699343c851c925c2c1f8c3ace7de38cfd67ed",
